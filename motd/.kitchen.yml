@@ -19,7 +19,7 @@ verifier:
 platforms:
 - name: centos-7
   driver:
-          image: dokken/centos-7
+          image: centos:7.3.1611
 
 suites:
   - name: motd
